@@ -67,7 +67,7 @@
 
 ## 技术支持
 
-访问 [https://itcg.cn](https://itcg.cn) 获取更多支持和更新。
+访问 [https://hub.itcg.cn](https://hub.itcg.cn) 获取更多支持和更新。
 
 ## 许可说明
 
